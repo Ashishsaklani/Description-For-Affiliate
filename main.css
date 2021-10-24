@@ -12,17 +12,6 @@
     margin-bottom: 20%;
     background-color: white;
 }
-.Header {
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-}
-.StoreLink {
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    margin: 0px;
-    font-size: large;
-    border-left: medium;
-    
-
-}
 
 .sellerBtn {
     background-color: #1FB3F1; /* Green */
